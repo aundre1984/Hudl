@@ -4,7 +4,7 @@
 class Locators():
     # login/Home Page locators
 
-    # buttons
+    # buttons/input
     homepage_login_button = '/html/body/div[1]/header/div/a[2]'
     email_input = "//input[@id='email']"
     password_input = "//input[@id='password']"
