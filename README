@@ -1,1 +1,10 @@
-Credentials files are to be stored locally -  These contain username and password
+This file will contain 2 test - 
+- 1 valid login
+- 1 invalid login
+BOTH TESTS ARE WITHIN THE "TESTS" FOLDER
+
+PLEASE EDIT FILE PATHS IN USERS.PY - ENTER PATH LOCATION FOR CREDENTIAL FILES AND PLACE CREDENTIALS AND INVALIDCREDENTIALS TXT FILES IN THIS LOCATION
+Credentials/InvalidCredentials files are to be stored locally -  These contain username and passwords
+
+
+
